@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Polaris_tow </h1>
+
 <h3 align="center">A web2 and web3 white hat hacker.</h3>
+
+<p align="left"> <a href="https://twitter.com/Polaris_tow" target="blank"><img src="https://img.shields.io/twitter/follow/Polaris_tow?logo=twitter&style=for-the-badge" alt="Polaris_tow" /></a> </p>
+
+- 📫 How to reach me **Polaristow2@gmail.com**
+- 📫 How to reach me **QQ:3321500677**
+
 ![Polaristow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polaristow&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
