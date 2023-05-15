@@ -6,6 +6,7 @@
 
 - 📫 How to reach me **Polaristow2@gmail.com**
 - 📫 How to reach me **QQ:3321500677**
+- 📫 How to reach me **wx:zz15842945138**
 
 ![Polaristow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polaristow&count_private=true&show_icons=true&theme=tokyonight)
 
