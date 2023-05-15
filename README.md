@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Polaris_tow </h1>
+<h3 align="center">A web2 and web3 white hat hacker.</h3>
+![Polaristow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polaristow&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **Polaristow/Polaristow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
