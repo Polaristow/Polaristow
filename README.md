@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Polaris_tow </h1>
 
-<h3 align="center">A Web3 Security Researcher！.</h3>
+<h3 align="center">A Web3 Security Researcher！</h3>
 
 <p align="left"> <a href="https://twitter.com/Polaris_tow" target="blank"><img src="https://img.shields.io/twitter/follow/Polaris_tow?logo=twitter&style=for-the-badge" alt="Polaris_tow" /></a> </p>
 
